@@ -1,5 +1,9 @@
 # BaseWZ-V1 par WayZe#0001
 
+# Téléchargement de la base
+
+ - 💫 [Lien de téléchargement de la base](https://mega.nz/folder/B8ISzZST#O-R-mnyGG8MpA9gZDzxOYw)  
+
 Bonjour à tous je vous présente aujourd'hui cette Base FiveM qui tourne en Double Job sur la première version de l'es_extended réalisé EXCLUSIVEMENT en live sur la [chaîne Youtube de WayZe](https://youtube.com/WayZe) +24 heures de streams et 0 minute de développement hors stream !
 
 Je vous prie de ne pas vous attribuer cette base et de la vendre, toute personne qui s'appropriera ma base assumera les conséquences 🙂
