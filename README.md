@@ -2,7 +2,7 @@
 
 # ⚠️ Téléchargement de la base ⚠️
 
- - 💫 [Lien de téléchargement de la base](https://mega.nz/folder/B8ISzZST#O-R-mnyGG8MpA9gZDzxOYw) ⚠️
+ - ➡️ [Lien de téléchargement de la base](https://mega.nz/folder/B8ISzZST#O-R-mnyGG8MpA9gZDzxOYw)⬅️
 
 # ↓
 
