@@ -1,8 +1,8 @@
 # BaseWZ-V1 par WayZe#0001
 
-# Téléchargement de la base
+# ⚠️ Téléchargement de la base ⚠️
 
- - 💫 [Lien de téléchargement de la base](https://mega.nz/folder/B8ISzZST#O-R-mnyGG8MpA9gZDzxOYw)  
+ - 💫 [Lien de téléchargement de la base](https://mega.nz/folder/B8ISzZST#O-R-mnyGG8MpA9gZDzxOYw) ⚠️
 
 # ↓
 
